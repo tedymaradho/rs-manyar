@@ -1,0 +1,10 @@
+.logo__img{
+    width:200px;
+    height: 100px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.logo__list{
+    list-style: none;
+}

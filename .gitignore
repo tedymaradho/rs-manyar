@@ -82,9 +82,6 @@ phpunit
 #-------------------------
 # Composer
 #-------------------------
-vendor/
-public/
-tests/
 
 #-------------------------
 # IDE / Development Files
